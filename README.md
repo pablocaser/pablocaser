@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋 Hi there, my name os Pablo Casero 
+## Junior data scientist with 2+ years of experience.
 <!--
 **pablocaser/pablocaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
